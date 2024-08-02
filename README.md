@@ -6,6 +6,8 @@ I am thrilled to present my latest project: The Unscramble App, a single-player 
 ## 📱 App Overview:
 The Unscramble App challenges players to guess a word from a set of scrambled letters. Players earn points for each correct guess, and they can try as many times as they want or skip the word if they're stuck. The game consists of 10 scrambled words per round, providing endless fun and learning opportunities.
 
+## <img src="https://github.com/user-attachments/assets/e8e07e72-1ea9-4c84-9faf-c23fd59c8053" alt="Home Screen" width="300"/> <img src="https://github.com/user-attachments/assets/2b272f03-f35e-44b7-9ea4-61ced0fe246b" alt="Finish Screen" width="300"/>
+
 ## 🏗 Recommended App Architecture:
 The development of the Unscramble App adheres to a clean architectural pattern that divides the app into distinct layers:
 
